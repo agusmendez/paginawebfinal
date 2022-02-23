@@ -22,7 +22,9 @@ const NovedadesPage = (props) => {
 
     return (
         <main className="holder">
+            <div className="titulo">
         <h2>Novedades</h2>
+        </div>
         {loading ? (
             <p>Cargando...</p>
         ) : (

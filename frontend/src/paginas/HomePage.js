@@ -9,14 +9,14 @@ const HomePage = (props) => {
         </div>
         <div className="columnas">
             <div className="bienvenidos left">
-                <h2>bienvenidos</h2>
+                <h2>Bienvenidos</h2>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id nihil alias deleniti natus quod provident quo reprehenderit amet, laboriosam eum? Harum impedit illo eveniet temporibus, atque velit optio quibusdam animi!</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum voluptas labore, libero maiores fuga tenetur dolor! Sapiente, pariatur, optio cupiditate nostrum fugiat nemo, excepturi architecto odio exercitationem eligendi veritatis sit!</p>
 
             </div>
             <div className="testimonios right">
                 <h2>
-                    testimonios
+                    Testimonios
                 </h2>
                 <div className="testimonio">
                     <span className="cita"> simplemente excelente
